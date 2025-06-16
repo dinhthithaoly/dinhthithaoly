@@ -21,17 +21,14 @@
 🌐 **GitHub**: [github.com/dinhthithaoly](https://github.com/dinhthithaoly)
 
 ---
-
 ## 🧠 Core Skill Set
 
-| **Category**            | **Key Skills & Techniques**                                                                                                                                 |
-|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Business Analysis**   | - Requirements Elicitation (Interview, Survey, Documents)<br>- Stakeholder Communication & Management<br>- Business Process Analysis & Optimization <br>-  Business Requirement Document (BRD) & Software Requirement Specification (SRS) Writing |
-| **System Modeling**     | - Business Function – Oriented Modeling: Business Process Modeling (BPM), Conceptual Data Model
-(CDM), Physical Data Model (PDM), Business Function Diagram (BFD) and multi-level Data Flow
-Diagrams (DFD – Levels 0 to 2)<br>- UML – Oriented Modeling: Use Case Diagrams, Activity Diagrams, Sequence Diagrams, Collaboration
-Diagrams, Class Diagrams (Analysis Level), Class Diagrams (Design Level). |
-| **Soft Skills**         | - Analytical Thinking · Communication<br>- Teamwork · Leadership<br>- Attention to Detail · Time Management                                                 |
+| **Category**          | **Key Skills & Techniques**                                                                                                                                                                                                                     |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Business Analysis** | - Requirements Elicitation (Interview, Survey, Document Review)<br>- Stakeholder Communication & Management<br>- Business Process Analysis & Optimization<br>- BRD (Business Requirement Document) & SRS (Software Requirement Specification) Writing |
+| **System Modeling**   | - **Business Function-Oriented Modeling**: BPM (Business Process Modeling), CDM (Conceptual Data Model), PDM (Physical Data Model), BFD (Business Function Diagram), DFD Levels 0–2<br>- **UML-Oriented Modeling**: Use Case, Activity, Sequence, Collaboration, Class Diagrams (Analysis & Design Level) |
+| **Soft Skills**       | - Analytical Thinking · Communication<br>- Teamwork · Leadership<br>- Attention to Detail · Time Management                                                                                                                                     |
+                                              |
 
 
 ---
