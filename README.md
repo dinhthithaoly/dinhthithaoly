@@ -2,11 +2,11 @@
 <h3 align="center"><i>Future IT Business Analyst </i></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Business%20Analyst-Process%20Focused-1976D2?style=for-the-badge&logo=confluence" />
-  <img src="https://img.shields.io/badge/System%20Modeling-UML%20%7C%20DFD%20%7C%20BPMN-1565C0?style=for-the-badge&logo=codefactor" />
-  <img src="https://img.shields.io/badge/Documentation-BRD%20%7C%20SRS%20%7C%20Use%20Case-0D47A1?style=for-the-badge&logo=readthedocs" />
-  <img src="https://img.shields.io/badge/SQL%20Design-ERD%20%7C%20CDM%20%7C%20PDM-0B5394?style=for-the-badge&logo=sqlite" />
-  <img src="https://img.shields.io/badge/Women%20in%20IT-Proud-blue?style=for-the-badge&logo=opsgenie" />
+  <img src="https://img.shields.io/badge/Role-Business%20Analyst-1976D2?style=for-the-badge&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Skill-System%20Modeling%3A%20UML%20%7C%20DFD%20%7C%20BPMN-1565C0?style=for-the-badge&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Documentation-BRD%20%7C%20SRS%20%7C%20Use%20Case-0D47A1?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Design-ERD%20%7C%20CDM%20%7C%20PDM-0B5394?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Women%20in%20Tech-Proud-0288D1?style=for-the-badge&logo=opsgenie&logoColor=white" />
 </p>
 
 ---
