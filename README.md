@@ -27,8 +27,7 @@
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Business Analysis** | - Requirements Elicitation (Interview, Survey, Document Review)<br>- Stakeholder Communication & Management<br>- Business Process Analysis & Optimization<br>- BRD (Business Requirement Document) & SRS (Software Requirement Specification) Writing |
 | **System Modeling**   | - **Business Function-Oriented Modeling**: BPM (Business Process Modeling), CDM (Conceptual Data Model), PDM (Physical Data Model), BFD (Business Function Diagram), DFD Levels 0–2<br>- **UML-Oriented Modeling**: Use Case, Activity, Sequence, Collaboration, Class Diagrams (Analysis & Design Level) |
-| **Soft Skills**       | - Analytical Thinking · Communication<br>- Teamwork · Leadership<br>- Attention to Detail · Time Management                                                                                                                                     |
-                                              |
+| **Soft Skills**       | - Analytical Thinking <br>- Communication<br>- Teamwork <br>- Leadership<br>- Attention to Detail <br>- Time Management                                                                                                                                     |
 
 
 ---
