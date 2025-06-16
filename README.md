@@ -2,11 +2,11 @@
 <h3 align="center"><i>Future IT Business Analyst </i></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Business%20Analyst-1976D2?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Skill-System%20Modeling%3A%20UML%20%7C%20DFD%20%7C%20BPMN-1565C0?style=for-the-badge&logo=codefactor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Documentation-BRD%20%7C%20SRS%20%7C%20Use%20Case-0D47A1?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Design-ERD%20%7C%20CDM%20%7C%20PDM-0B5394?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Women%20in%20Tech-Proud-0288D1?style=for-the-badge&logo=opsgenie&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Analyst–Process_Focused-1976D2?style=for-the-badge&logo=confluence&logoColor=white" alt="Business Analyst" />
+  <img src="https://img.shields.io/badge/System_Modeling–UML|DFD|BPMN-1565C0?style=for-the-badge&logo=uml&logoColor=white" alt="System Modeling" />
+  <img src="https://img.shields.io/badge/Documentation–BRD|SRS|Use_Case-0D47A1?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentation" />
+  <img src="https://img.shields.io/badge/SQL_Design–ERD|CDM|PDM-0B5394?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Design" />
+  <img src="https://img.shields.io/badge/Women_in_IT–Proud-0A3D91?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Women in IT" />
 </p>
 
 ---
