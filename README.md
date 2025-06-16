@@ -1,71 +1,88 @@
-<h1 align="center" style="color:#0d47a1;">✨ Đinh Thị Thảo Ly ✨</h1>
+<h1 align="center" style="color:#1E88E5;">💼 Đinh Thị Thảo Ly</h1>
+<h3 align="center"><i>Future IT Business Analyst </i></h3>
+
 <p align="center">
-  <strong><i>IT Business Analyst | System Thinker | Women in Tech</i></strong><br>
-  <img src="https://img.shields.io/badge/Empowering%20Systems-Business%20%26%20Tech-blue?style=for-the-badge&logo=powerbi">
+  <img src="https://img.shields.io/badge/Women%20in%20Tech-Empowered-1E88E5?style=for-the-badge&logo=powerbi">
+  <img src="https://img.shields.io/badge/BA%20Skills-Process%20Driven-1976D2?style=for-the-badge&logo=confluence">
+  <img src="https://img.shields.io/badge/UML%20%26%20Modeling-Expert-1565C0?style=for-the-badge&logo=uml">
 </p>
 
 ---
 
-## 📘 About Me
+## 🌐 About Me
 
-👋 Hi, I’m **Đinh Thị Thảo Ly** – a detail-oriented and passionate **IT Business Analyst** in the making. I love turning business needs into crystal-clear system requirements, creating structure from chaos, and being the voice between stakeholders and developers.
+🎓 **Final-year Software Engineering student** at *HCMC University of Industry and Trade*  
+📍 Based in **Ho Chi Minh City**
+💡 Passionate about simplifying complexity through clear analysis, intuitive system design, and effective documentation.  
 
-🎓 **Software Engineering** student – HCM University of Industry and Trade  
-📍 **Location**: Ho Chi Minh City, Vietnam  
-🧩 **Focus**: Business analysis, process modeling, requirements documentation, data-driven thinking  
-🛠 **Tools**: Visio, Draw.io, PowerDesigner, SQL Server, Jira, Figma
-
----
-
-## 💼 Core Skills
-
-| Domain | Skills |
-|-------|--------|
-| 🎯 Business Analysis | Requirements Elicitation, BRD/SRS Writing, Process Optimization |
-| 🧠 System Thinking | UML, BPMN, DFDs, Data Modeling (CDM, PDM), ERDs |
-| 📈 Communication | Stakeholder Interviews, Team Coordination, Presentation |
-| ⚙️ Tools & Tech | MS Office, PowerDesigner, Rational Rose, SQL Server, Jira, Figma |
+📬 **Email**: [dinhthithaoly.a6@gmail.com](mailto:dinhthithaoly.a6@gmail.com)  
+🌐 **GitHub**: [github.com/dinhthithaoly](https://github.com/dinhthithaoly)
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Core Skill Set
 
-### 📌 Grade Management System – Trần Phú High School  
-🗓️ *Mar 2024 – Jun 2024* | 🎓 Academic Project  
-- Led requirement analysis through user surveys & interviews  
-- Built BFD, DFD levels 0–2, and full UML suite  
-- Authored BRD, SRS and designed database schema
+| **Category**            | **Key Skills & Techniques**                                                                                                                                 |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Business Analysis**   | - Requirements Elicitation (Interview, Survey, Documents)<br>- Stakeholder Communication & Gap Analysis<br>- Use Case Analysis · Business Rule Definition |
+| **System Modeling**     | - BPMN · Business Flow Diagram (BFD)<br>- Data Flow Diagram (Level 0–2)<br>- UML: Use Case, Activity, Sequence, Class<br>- CDM/PDM (ERD, Logical Models)   |
+| **Documentation**       | - BRD (Business Requirement Document)<br>- SRS (Software Requirement Spec)<br>- Use Case Spec · Functional Spec · Flow Charts                              |
+| **Database Design**     | - ERD · SQL Server<br>- Normalization (1NF–3NF)<br>- Primary/Foreign Keys · Basic SQL Queries                                                              |
+| **Soft Skills**         | - Analytical Thinking · Communication<br>- Teamwork · Leadership<br>- Attention to Detail · Time Management                                                 |
 
-### 📌 Warehouse Management System – Vissan Co.  
-🗓️ *May 2025 – Jun 2025* | 👩‍💻 Capstone Project  
-- Conducted end-to-end business process mapping  
-- Delivered complete UML documentation set and SQL structure  
-- Ensured stakeholder alignment through prototypes and diagrams
 
 ---
 
-## 🏆 Awards & Recognition
+## 🧩 Tools & Technologies
 
-- 🏅 **Certificate of Merit** – Academic Excellence (2022–2023)  
-- 🌟 **Outstanding Youth Union Member** – Faculty of IT  
-- 💬 **Best Team Presenter** – Capstone Presentation 2024  
-- 💗 **Volunteer** – Pink Hat Breast Cancer Campaign (Hair Donation)
-
----
-
-## 🔭 Goals & Vision
-
-> “I bridge the gap between what the **business envisions** and what the **system delivers**. My mission is to make solutions not just work, but *fit*. I believe in clear logic, clean documentation, and continuous learning.”
+<p align="center">
+  <img src="https://img.shields.io/badge/PowerDesigner-CDM%20%7C%20PDM-blue?style=flat-square&logo=datagrip">
+  <img src="https://img.shields.io/badge/Rational%20Rose-UML-blue?style=flat-square&logo=ibm">
+  <img src="https://img.shields.io/badge/SQL%20Server-Queries%20%26%20Designs-blue?style=flat-square&logo=microsoftsqlserver">
+  <img src="https://img.shields.io/badge/Draw.io-BPM%20%7C%20DFD-blue?style=flat-square&logo=diagramsdotnet">
+  <img src="https://img.shields.io/badge/Jira-Collaboration-blue?style=flat-square&logo=jira">
+  <img src="https://img.shields.io/badge/Figma-Wireframing-blue?style=flat-square&logo=figma">
+</p>
 
 ---
 
-## 📬 Contact Me
+## 🚀 Projects
 
-- 📧 Email: [dinhthithaoly.a6@gmail.com](mailto:dinhthithaoly.a6@gmail.com)  
-- 🌐 Portfolio: [github.com/dinhthithaoly](https://github.com/dinhthithaoly)
+### 📘 Grade Management System – Trần Phú High School  
+🗓️ *Mar 2024 – Jun 2024* | 👥 *Role: Team Lead & Business Analyst*  
+- Led stakeholder interviews with teachers, students, and parents  
+- Created BRD, SRS, use case and activity diagrams  
+- Modeled BFD, multi-level DFDs and CDM/PDM  
+- Participated in SQL design and functional reviews  
+
+---
+
+### 📦 Warehouse Management System – Vissan Co.  
+🗓️ *May 2025 – Jun 2025* | 👥 *Role: BA Lead – 5-member team*  
+- Conducted on-site process analysis and stakeholder   
+- Designed UML diagrams: Use Case, Sequence, Class, Activity  
+- Built logical data models with constraints and normalization  
+- Wrote detailed functional documentation and presented solutions
+
+---
+
+## 🏆 Achievements & Volunteering
+
+- 🥇 **Certificate of Merit** for Excellent Conduct & GPA (2022–2023)  
+- 🏅 **Outstanding Youth Union Member** – IT Faculty  
+- ⭐ **Top Member – Soft Skills Club** (2024)  
+- 💗 **Volunteer – Pink Hat Breast Cancer Campaign & Hair Donation**
+
+---
+
+## 💬 Personal Quote
+
+> “As a Business Analyst, I don't just translate requirements —  
+> I reveal structure, clarity, and direction behind every user story and system flow.”
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=100&section=footer"/>
+  <img src="https://drive.google.com/uc?export=view&id=1fBHGny_fehpwYB1xy3kOh_1xGfpzq_ZZ" width="180" style="border-radius: 50%;" alt="avatar"/>
 </p>
+
