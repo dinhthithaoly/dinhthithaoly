@@ -2,9 +2,11 @@
 <h3 align="center"><i>Future IT Business Analyst </i></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Women%20in%20Tech-Empowered-1E88E5?style=for-the-badge&logo=powerbi">
-  <img src="https://img.shields.io/badge/BA%20Skills-Process%20Driven-1976D2?style=for-the-badge&logo=confluence">
-  <img src="https://img.shields.io/badge/UML%20%26%20Modeling-Expert-1565C0?style=for-the-badge&logo=uml">
+  <img src="https://img.shields.io/badge/Business%20Analyst-Process%20Focused-1976D2?style=for-the-badge&logo=confluence" />
+  <img src="https://img.shields.io/badge/System%20Modeling-UML%20%7C%20DFD%20%7C%20BPMN-1565C0?style=for-the-badge&logo=codefactor" />
+  <img src="https://img.shields.io/badge/Documentation-BRD%20%7C%20SRS%20%7C%20Use%20Case-0D47A1?style=for-the-badge&logo=readthedocs" />
+  <img src="https://img.shields.io/badge/SQL%20Design-ERD%20%7C%20CDM%20%7C%20PDM-0B5394?style=for-the-badge&logo=sqlite" />
+  <img src="https://img.shields.io/badge/Women%20in%20IT-Proud-blue?style=for-the-badge&logo=opsgenie" />
 </p>
 
 ---
@@ -24,10 +26,11 @@
 
 | **Category**            | **Key Skills & Techniques**                                                                                                                                 |
 |-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Business Analysis**   | - Requirements Elicitation (Interview, Survey, Documents)<br>- Stakeholder Communication & Gap Analysis<br>- Use Case Analysis · Business Rule Definition |
-| **System Modeling**     | - BPMN · Business Flow Diagram (BFD)<br>- Data Flow Diagram (Level 0–2)<br>- UML: Use Case, Activity, Sequence, Class<br>- CDM/PDM (ERD, Logical Models)   |
-| **Documentation**       | - BRD (Business Requirement Document)<br>- SRS (Software Requirement Spec)<br>- Use Case Spec · Functional Spec · Flow Charts                              |
-| **Database Design**     | - ERD · SQL Server<br>- Normalization (1NF–3NF)<br>- Primary/Foreign Keys · Basic SQL Queries                                                              |
+| **Business Analysis**   | - Requirements Elicitation (Interview, Survey, Documents)<br>- Stakeholder Communication & Management<br>- Business Process Analysis & Optimization <br>-  Business Requirement Document (BRD) & Software Requirement Specification (SRS) Writing |
+| **System Modeling**     | - Business Function – Oriented Modeling: Business Process Modeling (BPM), Conceptual Data Model
+(CDM), Physical Data Model (PDM), Business Function Diagram (BFD) and multi-level Data Flow
+Diagrams (DFD – Levels 0 to 2)<br>- UML – Oriented Modeling: Use Case Diagrams, Activity Diagrams, Sequence Diagrams, Collaboration
+Diagrams, Class Diagrams (Analysis Level), Class Diagrams (Design Level). |
 | **Soft Skills**         | - Analytical Thinking · Communication<br>- Teamwork · Leadership<br>- Attention to Detail · Time Management                                                 |
 
 
