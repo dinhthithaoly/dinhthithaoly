@@ -14,10 +14,13 @@
 ## 🌐 About Me
 
 🎓 **Final-year Software Engineering student** at *HCMC University of Industry and Trade*  
+
 📍 Based in **Ho Chi Minh City**
+
 💡 Passionate about simplifying complexity through clear analysis, intuitive system design, and effective documentation.  
 
 📬 **Email**: [dinhthithaoly.a6@gmail.com](mailto:dinhthithaoly.a6@gmail.com)  
+
 🌐 **GitHub**: [github.com/dinhthithaoly](https://github.com/dinhthithaoly)
 
 ---
