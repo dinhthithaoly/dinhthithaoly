@@ -1,81 +1,67 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dinhthithaoly/dinhthithaoly/main/banner.png" alt="banner" />
+</p>
+
 <h1 align="center" style="color:#0d47a1;">👩‍💻 Đinh Thị Thảo Ly</h1>
 <p align="center">
-  <b>Future IT Business Analyst | Problem Solver | System Thinker</b><br>
-  <i>Turning complexity into clarity with precision and insight.</i>
+  <b>Future IT Business Analyst | System Architect | Data Enthusiast</b><br>
+  <i>“Bridging business vision and technical execution with elegance and strategy.”</i>
 </p>
-
----
-
-## 🔹 About Me
-
-🎓 Final-year Software Engineering student – Ho Chi Minh City University of Industry and Trade  
-📍 Based in Hồ Chí Minh City | Fluent in Vietnamese | English: Intermediate  
-🧠 Passionate about understanding business needs and transforming them into scalable system solutions  
-🎯 Aspiring to become a **top-tier IT Business Analyst** with strong modeling and documentation capabilities  
-
-📫 Contact: [dinhthithaoly.a6@gmail.com](mailto:dinhthithaoly.a6@gmail.com)  
-🌐 Portfolio & Projects: [github.com/dinhthithaoly](https://github.com/dinhthithaoly)
-
----
-
-## 🔹 Core Competencies
-
-### 📊 Business Analysis & Requirements Engineering
-- Requirement Elicitation & Prioritization (interviews, questionnaires, workshops)
-- SRS, BRD, Use Case Specification Writing
-- Process Optimization & Gap Analysis
-
-### 🧩 System Analysis & Modeling
-- Business Process Diagram (BPMN), BFD, DFD (0, 1, 2)
-- UML: Use Case, Activity, Sequence, Collaboration, Class Diagrams
-- ERD, CDM/PDM Design, Data Flow Specification
-
-### 🛠 Tools & Technologies
-
-| Category       | Tools / Technologies                           |
-|----------------|-------------------------------------------------|
-| Diagramming    | Visio, Draw.io, Rational Rose, PowerDesigner    |
-| Documentation  | MS Word, Excel, Google Docs, Markdown           |
-| Database       | SQL Server, MySQL (basic SQL scripting)         |
-| Collaboration  | Jira, Zalo, Google Meet                         |
-| Design (UI/UX) | Figma (basic wireframes)                        |
-
----
-
-## 🔹 Projects
-
-### 📌 Grade Management System – Trần Phú High School  
-**Mar 2024 – Jun 2024** | *Team Leader & Business Analyst*  
-- Conducted stakeholder interviews with teachers, students & parents  
-- Designed BFD, DFD levels 0–2, UML diagrams for system functionalities  
-- Wrote detailed BRD, SRS & contributed to SQL design
-
-### 📌 Warehouse Management System – Vissan Co.  
-**May 2025 – Jun 2025** | *BA Lead – 5-member team*  
-- Performed end-to-end business process analysis on warehouse flows  
-- Created full UML model suite and logical data model  
-- Ensured alignment between business needs and system specifications
-
----
-
-## 🔹 Highlights & Recognition
-
-🏅 Certificate of Merit – Academic Excellence (2022–2023)  
-🎖️ Outstanding Youth Union Member – Faculty of IT  
-⭐ “Top Performer” – Soft Skills Club (2024)  
-💗 Volunteer – Pink Hat Breast Cancer Awareness, Hair Donation Campaign
-
----
-
-## 🔹 Mission Statement
-
-> “I aim to become a Business Analyst who not only understands what the business *wants*, but more importantly, what it truly *needs*.  
-> With a sharp eye for systems and a heart for people, I turn ideas into structured, deliverable solutions.”
-
----
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Business_Analyst-Future-blue?style=for-the-badge&logo=databricks">
-  <img src="https://img.shields.io/badge/System_Thinking-Strong-blue?style=for-the-badge&logo=gitbook">
-  <img src="https://img.shields.io/badge/Women_in_Tech-Proud-blue?style=for-the-badge&logo=heroku">
+  <a href="mailto:dinhthithaoly.a6@gmail.com"><img src="https://img.shields.io/badge/Email-dinhthithaoly.a6@gmail.com-blue?style=flat-square&logo=gmail" /></a>
+  <a href="https://linkedin.com/in/dinhthithaoly"><img src="https://img.shields.io/badge/LinkedIn-DinhThiThaoLy-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://github.com/dinhthithaoly"><img src="https://img.shields.io/badge/GitHub-dinhthithaoly-blue?style=flat-square&logo=github" /></a>
+  <a href="/CV_DinhThiThaoLy_ITBA_Intern.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobeacrobat" /></a>
 </p>
+
+---
+
+## 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visio-083fa1?style=for-the-badge&logo=microsoft-visio" alt="Visio" />
+  <img src="https://img.shields.io/badge/Draw.io-008cff?style=for-the-badge&logo=drawio" alt="Draw.io" />
+  <img src="https://img.shields.io/badge/PowerDesigner-3b3c36?style=for-the-badge&logo=powerdesigner" alt="PowerDesigner" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=jira" alt="Jira" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma" alt="Figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dinhthithaoly&show_icons=true&theme=blueberry&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinhthithaoly&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+| Project               | Description                                           | Technologies                | Link                                      |
+|-----------------------|-------------------------------------------------------|-----------------------------|-------------------------------------------|
+| Grade Management      | End-to-end BA + team lead for high school grade mgmt  | BPMN, UML, SQL             | [Repo](https://github.com/.../grade-mgmt) |
+| Warehouse Management  | Business process optimization for Vissan Co.          | UML, ERD, SQL Server       | [Repo](https://github.com/.../warehouse)  |
+| [Add Your Next Project](#) | [Brief description]                              | [Tech]                      | [Repo]()                                  |
+
+---
+
+## 🎖️ Recognitions & Certifications
+
+- 📜 Certificate of Merit – Academic Excellence (2022–2023)  
+- 🏅 Outstanding Youth Union Member – Faculty of IT  
+- ⭐ Top Performer – Soft Skills Club (2024)  
+- 💗 Pink Hat Breast Cancer Awareness Volunteer (2023)
+
+---
+
+## 💬 Let’s Connect
+
+I’m always open to discussing **business analysis**, **system design** or **collaboration** opportunities. Feel free to shoot me an email or connect on LinkedIn!
+
+> **“Great things in business are never done by one person. They’re done by a team of people.”** – Steve Jobs
+
+---
