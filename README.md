@@ -38,12 +38,10 @@
 ## 🧩 Tools & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PowerDesigner-CDM%20%7C%20PDM-blue?style=flat-square&logo=datagrip">
-  <img src="https://img.shields.io/badge/Rational%20Rose-UML-blue?style=flat-square&logo=ibm">
-  <img src="https://img.shields.io/badge/SQL%20Server-Queries%20%26%20Designs-blue?style=flat-square&logo=microsoftsqlserver">
-  <img src="https://img.shields.io/badge/Draw.io-BPM%20%7C%20DFD-blue?style=flat-square&logo=diagramsdotnet">
-  <img src="https://img.shields.io/badge/Jira-Collaboration-blue?style=flat-square&logo=jira">
-  <img src="https://img.shields.io/badge/Figma-Wireframing-blue?style=flat-square&logo=figma">
+  <img src="https://img.shields.io/badge/Tool-PowerDesigner-1E88E5?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool-Rational%20Rose-1976D2?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-SQL%20Server-0D47A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Diagram-Draw.io-1565C0?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
 </p>
 
 ---
