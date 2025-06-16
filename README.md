@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1fBHGny_fehpwYB1xy3kOh_1xGfpzq_ZZ" width="180" style="border-radius: 50%;" alt="avatar"/>
+</p>
+
 <h1 align="center" style="color:#1E88E5;">💼 Đinh Thị Thảo Ly</h1>
 <h3 align="center"><i>Future IT Business Analyst </i></h3>
 
@@ -79,10 +83,3 @@
 
 > “As a Business Analyst, I don't just translate requirements —  
 > I reveal structure, clarity, and direction behind every user story and system flow.”
-
----
-
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1fBHGny_fehpwYB1xy3kOh_1xGfpzq_ZZ" width="180" style="border-radius: 50%;" alt="avatar"/>
-</p>
-
