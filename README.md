@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1fBHGny_fehpwYB1xy3kOh_1xGfpzq_ZZ" width="180" style="border-radius: 50%;" alt="avatar"/>
+  <img src="D:\0. Tệp Đa Phương Tiện\Ảnh kỷ niệm\Lễ tốt nghiệp lớp 12\5" width="180" style="border-radius: 50%;" alt="avatar"/>
 </p>
 
 <h1 align="center" style="color:#1E88E5;">💼 Đinh Thị Thảo Ly</h1>
