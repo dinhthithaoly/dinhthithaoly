@@ -5,7 +5,7 @@
      alt="avatar"/>
 </p>
 
-<h1 align="center" style="color:#1E88E5;">💼 Đinh Thị Thảo Ly</h1>
+<h1 align="center" style="color:#1E88E5;">Đinh Thị Thảo Ly</h1>
 <h3 align="center"><i>Future IT Business Analyst </i></h3>
 
 <p align="center">
