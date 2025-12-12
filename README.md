@@ -62,8 +62,6 @@
 - Conducted business surveys and interviews to understand contest management workflows.  
 - Analyzed existing processes and identified system requirements and improvement areas.  
 - Transformed complex business needs into clear UML models: Business & System Use Case Diagrams, Activity, Sequence, Collaboration, and Class Diagrams (analysis & design levels).  
-- Designed the logical database schema supporting multi-stage competition management.  
-- Developed BRD, SRS, workflow descriptions, and functional specifications.  
 - Collaborated with developers to align implementation with system behavior and business rules.  
 
 ---
