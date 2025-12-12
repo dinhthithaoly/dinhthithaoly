@@ -21,24 +21,22 @@
 ## 🌐 About Me
 
 🎓 **Final-year Software Engineering student** at *HCMC University of Industry and Trade*  
-
-📍 Based in **Ho Chi Minh City**
+📍 Based in **Ho Chi Minh City**  
 
 💡 Passionate about simplifying complexity through clear analysis, intuitive system design, and effective documentation.  
 
 📬 **Email**: [dinhthithaoly.a6@gmail.com](mailto:dinhthithaoly.a6@gmail.com)  
-
 🌐 **GitHub**: [github.com/dinhthithaoly](https://github.com/dinhthithaoly)
 
 ---
+
 ## 🧠 Core Skill Set
 
 | **Category**          | **Key Skills & Techniques**                                                                                                                                                                                                                     |
 |-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Business Analysis** | - Requirements Elicitation (Interview, Survey, Document Review)<br>- Stakeholder Communication & Management<br>- Business Process Analysis & Optimization<br>- BRD (Business Requirement Document) & SRS (Software Requirement Specification) Writing |
-| **System Modeling**   | - **Business Function-Oriented Modeling**: BPM (Business Process Modeling), CDM (Conceptual Data Model), PDM (Physical Data Model), BFD (Business Function Diagram), DFD Levels 0–2<br>- **UML-Oriented Modeling**: Use Case, Activity, Sequence, Collaboration, Class Diagrams (Analysis & Design Level) |
-| **Soft Skills**       | - Analytical Thinking <br>- Communication<br>- Teamwork <br>- Leadership<br>- Attention to Detail <br>- Time Management                                                                                                                                     |
-
+| **System Modeling**   | - **Business Function-Oriented Modeling**: BPM, CDM, PDM, BFD, DFD Levels 0–2<br>- **UML Modeling**: Use Case, Activity, Sequence, Collaboration, Class Diagrams (Analysis & Design levels) |
+| **Soft Skills**       | - Analytical Thinking <br>- Communication<br>- Teamwork <br>- Leadership<br>- Attention to Detail <br>- Time Management |
 
 ---
 
@@ -55,21 +53,36 @@
 
 ## 🚀 Projects
 
+---
+
+### 🎓 Graduation Thesis – Academic Competition Management System  
+🗓️ *Dec 2025* | 👥 *Role: Business Analyst – System Analyst*  
+📌 **Customer:** Graduation Thesis Project – Faculty of Information Technology, HUIT  
+
+- Conducted business surveys and interviews to understand contest management workflows.  
+- Analyzed existing processes and identified system requirements and improvement areas.  
+- Transformed complex business needs into clear UML models: Business & System Use Case Diagrams, Activity, Sequence, Collaboration, and Class Diagrams (analysis & design levels).  
+- Designed the logical database schema supporting multi-stage competition management.  
+- Developed BRD, SRS, workflow descriptions, and functional specifications.  
+- Collaborated with developers to align implementation with system behavior and business rules.  
+
+---
+
 ### 📘 Grade Management System – Trần Phú High School  
 🗓️ *Mar 2024 – Jun 2024* | 👥 *Role: Team Lead & Business Analyst*  
-- Led stakeholder interviews with teachers, students, and parents  
-- Created BRD, SRS, use case and activity diagrams  
-- Modeled BFD, multi-level DFDs and CDM/PDM  
-- Participated in SQL design and functional reviews  
+- Led stakeholder interviews with teachers, students, and parents.  
+- Created BRD, SRS, use case and activity diagrams.  
+- Modeled BFD, multi-level DFDs and CDM/PDM.  
+- Participated in SQL design and functional reviews.  
 
 ---
 
 ### 📦 Warehouse Management System – Vissan Co.  
 🗓️ *May 2025 – Jun 2025* | 👥 *Role: BA Lead – 5-member team*  
-- Conducted on-site process analysis and stakeholder   
-- Designed UML diagrams: Use Case, Sequence, Class, Activity  
-- Built logical data models with constraints and normalization  
-- Wrote detailed functional documentation and presented solutions
+- Conducted on-site process analysis and stakeholder interviews.  
+- Designed UML diagrams: Use Case, Sequence, Class, Activity.  
+- Built logical data models with constraints & normalization.  
+- Wrote functional documentation and presented system solutions.
 
 ---
 
@@ -79,3 +92,4 @@
 - 🏅 **Outstanding Youth Union Member** – IT Faculty  
 - ⭐ **Top Member – Soft Skills Club** (2024)  
 - 💗 **Volunteer – Pink Hat Breast Cancer Campaign & Hair Donation**
+
