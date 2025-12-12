@@ -56,7 +56,7 @@
 ---
 
 ### 🎓 Graduation Thesis – Academic Competition Management System  
-🗓️ *Dec 2025* | 👥 *Role: Business Analyst – System Analyst*  
+🗓️ *Sep 2025 – Nov 2025* | 👥 *Role: Business Analyst – System Analyst*  
 📌 **Customer:** Graduation Thesis Project – Faculty of Information Technology, HUIT  
 
 - Conducted business surveys and interviews to understand contest management workflows.  
